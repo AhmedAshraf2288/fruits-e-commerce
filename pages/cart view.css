@@ -1,0 +1,187 @@
+.carView{
+    padding: 70px 0px;
+}
+
+ 
+
+
+
+.carView .tableview th{
+padding: 18px;
+border-bottom: 1px solid rgba(0,0,0,15%);
+font-size: 18px;
+font-family: Poppins-Medium;
+
+
+    
+}
+.carView .tableview td{
+    border-bottom: 1px solid rgba(0,0,0,15%);
+padding: 15px;
+background: #ffffff;
+font-size: 17px;
+font-weight: 600;
+color: rgb(0, 0, 0);
+}
+
+.cart_view{
+    border-bottom: none; 
+}
+.carView .cart__item__img img{
+    background-color: #fff;
+    border: 1px solid rgba(0 0 0 / 10%);
+
+}
+.cart_view .cart__item__text{
+    padding-left: 15px;
+}
+.cartViewEnd{
+    display: none;
+}
+.cartend{
+    border-bottom: 1px solid rgba(0,0,0,15%);
+    padding: 10px 15px;
+}
+.carView .box__item__qua i{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.carView .box__item__qua i:hover{
+    color: #ee6c4d;
+}
+.cartend .box__item__qua{
+    padding: 20px 0px;
+}
+.cartend .cart__item{
+    padding: 0px;
+}
+.cartend .cart_view .cart__item__text {
+    padding-left: 18px;
+    font-size: 15px;
+}
+.cartend .cart__item .cart__item__img img {
+    width: 94px;
+    height: 94px;
+    object-fit: cover;
+}
+thead.clear {
+    display: none;
+  }
+  
+.endcheck .chash{
+    gap: 15px;
+    padding-bottom: 50px;
+    width: 310px;
+  }
+  .endcheck .chash ul{
+    border-bottom: 1px solid rgba(0,0,0,10%);
+    
+  }
+  .endcheck .chash ul li{
+    padding: 35px 10px;
+
+  }
+  .endcheck .chash ul li div{
+    border-right: 1px solid rgba(0,0,0,10%);
+    text-align: center;
+    padding-right: 26px;
+
+
+  }
+  .endcheck .chash ul li div i{
+    font-size: 15px;
+  }
+  .endcheck .chash ul li div p{
+    font-size: 14px;
+    text-transform: capitalize;
+    padding-top: 7px;
+    font-family: Poppins-Medium;
+  }
+
+  .endcheck .chash ul li:last-child div{
+    border-right: none;
+  }
+  .endcheck .form textarea {
+    width: 290px;
+    height: 260px;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border-radius: 3px;
+    box-shadow: none;
+    border: 1px solid #e5e5e5;
+    outline: none;
+    font-size: 16px;
+    font-family: Poppins-Medium;
+    resize: none;
+}
+.endcheck .tab-pane h4 {
+    font-size: 17px;
+    padding-bottom: 15px;
+} 
+
+
+.endcheck .tab-pane .form #carss {
+    margin-top: 7px;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid #e5e5e5;
+    outline: none;
+    font-size: 14px;
+    font-family: Poppins-Medium;
+}
+.endcheck .tab-pane .form .lab{
+   padding-top: 15px;
+
+}
+.endcheck .tab-pane .form #lastNames{
+  margin-top: 7px;
+}
+
+.endcheck .tab2 #coluction{
+
+    font-family: Poppins-Medium;
+    font-size: 14px;
+    text-decoration: underline;
+    cursor: pointer;  
+    padding: 15px 0px;
+    transition: all .5s;
+}
+.endcheck .tab2 #coluction:hover{
+    color: #ee6c4d;
+}
+.endcheck .tab2__hid {
+    display: none;
+    padding: 15px 0px;
+    
+  }
+  
+.endcheck .tab2__hid.show {
+    display: block;
+  }
+  .endcheck .tab2__hid span{
+    color: green;
+  }
+  .endcheck .tab2__hid p{
+    padding-top: 15px;
+  }
+  .endcheck .tab-pane .form #lastN{
+    width: 130%;
+  }
+  .cashcheck .cartall__price{
+    padding-top: 20px;
+    border-bottom: none;
+  }
+
+ .cashcheck .sec3__item__btn1{
+    margin-top: 50px;
+    width: 100% ;
+ }
+
+ .endcheck{
+    display: block;
+ }
+ .endcheck.clear{
+    display: none;
+ }

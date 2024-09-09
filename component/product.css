@@ -1,0 +1,313 @@
+.sec2 .splide__track{
+    padding: 5px 0px;
+  }
+
+  .sec2__items{
+    padding: 0px 15px;
+  }
+  .sec2__items img{
+    width: 260px;
+    margin: auto;
+    object-fit: cover;
+    height: 300px;
+    
+      }
+.sec2__item .sec2__img{
+     overflow-y: hidden;
+        padding-top: 30px;
+      }
+ .sec2__item .sec2__item__img__show{
+        position: relative;
+        
+     
+    }
+  .sec2__item .sec2__item__img__hide{
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        transition: all 0.4s cubic-bezier(0.47, 0, 0.745, 0.715) ;
+    
+    }
+.sec2__item .sec2__item__img__hide:hover{
+        opacity: 1;
+    }
+    
+    
+ .sec2__item__icon{
+        position:absolute;
+        z-index: 4;
+        left: 0%;
+        top: 12px;
+        transform: translateY(-10px);
+        transition: all 0.5s;
+    
+        
+    }
+    
+    
+    
+ .sec2__item .sec2__item__img__hide:hover .sec2__item__icon{
+        transform: translateY(0);
+        opacity: 1;
+    }
+.sec2__item__icon li{
+        padding-bottom: 15px;
+    }
+ .sec2__item__icon li i{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    color: #232323;
+    box-shadow: 0 0 30px #0000001a;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+  
+
+  .sec2__item__icon li i:hover{
+        color: #ffffff;
+        background-color: #ee6c4d;
+    }
+
+.sec2__item__icon li span{
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 13px;
+        border: 1px solid transparent;
+        background: #000000;
+        padding:4px 7px;
+        border-radius: 5px;
+        letter-spacing: 1px;
+        position: relative;
+        top: -40px;
+        right: 70px;
+        text-transform: uppercase;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.5s;
+        margin: auto;
+       
+    
+    }
+ 
+
+ .sec2__item__icon ul{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline; 
+    }
+.sec2__item__icon li{
+        display: flex;
+    }
+
+ .sec2__item__icon li i:hover + span {
+        opacity: 1;
+        visibility: visible;
+    }
+.sec2__item__icon li:nth-of-type(2) span{
+        right: 62px;
+  
+    }
+    .sec2__item__icon li:nth-of-type(3) span{
+        width: 120px;
+        height: 30px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        right:80px;
+    }
+    
+   .sec2__item__icon li span::after{
+        content: "";
+        width: 0%;
+        height: 0%;
+        position: absolute;
+        bottom: -5px; 
+        left: 50%;
+        transform: translateX(-50%);
+        border-style: solid;
+        border-width: 5px 5px 0px 5px;
+        border-color: #000000 transparent transparent transparent;
+    }
+
+    .sec2__item__icon ul {
+        max-width: 10px;
+          
+          }
+          
+
+   
+
+       
+    
+ .sec2__item .sec2__item__btn{
+        position: absolute;
+        z-index: 5;
+        bottom: 0;
+        margin: auto;
+        width: 100%;
+        left: 0;
+        right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      
+    }
+    
+  .sec2__item .sec2__item__btn .btn1{
+        padding: 8px 35px;
+        border: 2px solid transparent;
+        background: #232323;
+        color: white;
+        border-radius: 3px;
+        position: relative;
+        transition: all 0.5s;
+        bottom: -50px;
+        width: 100%; 
+        text-transform: uppercase;
+        font-size: 16px;
+    
+        
+    
+    
+    }
+   .sec2__item .sec2__item__btn .btn1 i{
+        padding-right: 10px;
+    }
+    
+  .sec2__item:hover .sec2__item__btn .btn1{
+    
+     bottom: 0px;
+    
+    
+    }
+    
+  .sec2__item .sec2__item__text h3{
+        font-size: 17px;
+        font-family: Poppins-Medium;
+        padding: 20px 0px 5px 0px;
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+  .sec2__item .sec2__item__text h3:hover{
+        color: #ee6c4d;
+    }
+    .sec2__item .sec2__item__text ul{
+        padding-bottom:6px;
+    }
+.sec2__item .sec2__item__text ul li{
+      
+        padding: 6px 3px;
+        font-size: 12px;
+    }
+    
+     .sec2__item .sec2__item__text ul li i{
+        color: #ffb503;
+        font-size: 14px;
+    }
+    
+    .sec2__item .sec2__item__text span{
+        font-size: 17px;
+        font-family: Poppins-SemiBold;
+        padding: 10px 0px;
+    }
+
+    .sec2__item .sec2__item__text .sec2__item__text--sale{
+        padding-left: 5px;
+        text-decoration: line-through;
+        font-family:Poppins-Regular ;
+    }
+
+
+/* ****************************** */
+
+/* ****************************** */
+       
+    
+ .sec2__item .sec2__item__img__hide:hover .sec2__item__icon{
+        transform: translateY(0);
+        opacity: 1;
+     
+    }
+
+    .sec2__item__icon div{
+     
+     margin: -7px 0px;
+    }
+
+ .sec2__item__icon div i{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    color: #232323;
+    box-shadow: 0 0 30px #0000001a;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    }
+  
+
+  .sec2__item__icon div i:hover{
+        color: #ffffff;
+        background-color: #ee6c4d;
+    }
+
+.sec2__item__icon div span{
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 13px;
+        border: 1px solid transparent;
+        background: #000000;
+        padding:4px 7px;
+        border-radius: 5px;
+        letter-spacing: 1px;
+        position: relative;
+        right: 70px;
+        text-transform: uppercase;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.5s;
+        margin: auto;
+        left: -1px;
+        bottom: 75px;
+       
+    
+    }
+ 
+
+
+ .sec2__item__icon div i:hover + span {
+        opacity: 1;
+        visibility: visible;
+    }
+.sec2__item__icon div:nth-of-type(2) span{
+    left: 7px;
+    bottom: 75px;
+  
+    }
+
+    
+   .sec2__item__icon div span::after{
+        content: "";
+        width: 0%;
+        height: 0%;
+        position: absolute;
+        bottom: -5px; 
+        left: 50%;
+        transform: translateX(-50%);
+        border-style: solid;
+        border-width: 5px 5px 0px 5px;
+        border-color: #000000 transparent transparent transparent;
+    }
+

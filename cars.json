@@ -1,0 +1,1518 @@
+{
+    "Fresh fruits":[
+        {
+            "id": 1,
+            "cont":1,
+            "size":"1kg",
+            "country":"Canada",
+            "tittle": "Fresh apple",
+            "desc":"Organic dryfruit ",
+            "price": 18,
+            "onsale":false,
+            "imgs":[
+              "images/1-a_590X668_crop_center.jpg",
+              "images/1-b_590X668_crop_center.jpg",
+              "images/1-a_590X668_crop_center.jpg",
+              "images/1-b_590X668_crop_center.jpg"
+
+              
+            ]
+         
+          
+   
+       
+        },
+        {
+            "id": 2,
+            "cont":1,
+            "country":"Canada",
+            "size":"1kg",
+            "tittle": "Fresh avocado",
+            "desc":"Organic dryfruit ",
+            "price": 30,
+            "onsale":true,
+            "sale":40,
+            "imgs":[
+              "images/2-a_590X668_crop_center.jpg",
+              "images/2-d_590X668_crop_center.jpg",
+              "images/2-a_590X668_crop_center.jpg",
+              "images/2-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 3,
+            "cont":1,
+            "country":"Canada",
+            "size":"1kg",
+            "tittle": "Purple onion",
+            "desc":"Organic dryfruit ",
+            "price": 20,
+            "onsale":true,
+            "sale":30,
+            "imgs":[
+              "images/3-a_590X668_crop_center.jpg",
+              "images/3-d_590X668_crop_center.jpg",
+              "images/3-a_590X668_crop_center.jpg",
+              "images/3-d_590X668_crop_center.jpg"
+              
+            ]
+          
+   
+       
+        },
+        {
+            "id": 4,
+            "cont":1,
+            "size":"1kg",
+            "tittle": "Green capsicum",
+            "country":"Canada",
+            "desc":"Organic dryfruit ",
+            "price": 20,
+            "onsale":false,
+            "imgs":[
+              "images/4-a_590X668_crop_center.jpg",
+              "images/4-d_590X668_crop_center.jpg",
+              "images/4-a_590X668_crop_center.jpg",
+              "images/4-d_590X668_crop_center.jpg"
+            ]
+            
+          
+   
+       
+        },
+        {
+            "id": 5,
+            "cont":1,
+            "size":"1kg",
+            "tittle": "Fresh mango",
+            "country":"Germany",
+            "desc":"Organic dryfruit ",
+            "price": 18,
+            "onsale":true,
+            "sale":15,
+            "imgs":[
+              "images/5-a_590X668_crop_center.jpg",
+              "images/5-a_590X668_crop_center.jpg",
+              "images/5-a_590X668_crop_center.jpg",
+              "images/5-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 6,
+            "cont":1,
+            "size":"1kg",
+            "tittle": "Fresh brocoli",
+            "desc":"Organic dryfruit ",
+            "price": 35,
+            "country":"Germany",
+            "type":"vegetable",
+            "onsale":false,
+            "sale":15,
+            "imgs":[
+              "images/6-a_590X668_crop_center.jpg",
+              "images/6-d_590X668_crop_center.jpg",
+              "images/6-a_590X668_crop_center.jpg",
+              "images/6-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 7,
+            "cont":1,
+            "size":"1kg",
+            "country":"Germany",
+            "tittle": "Almond",
+            "desc":"Organic dryfruit ",
+            "type":"vegetable",
+            "price": 31,
+            "onsale":false,
+            "imgs":[
+              "images/7-a_590X668_crop_center.jpg",
+              "images/7-d_590X668_crop_center.jpg",
+              "images/7-a_590X668_crop_center.jpg",
+              "images/7-d_590X668_crop_center.jpg"
+            ]
+         
+          
+   
+       
+        },
+        {
+            "id": 8,
+            "cont":1,
+            "size":"2kg",
+            "country":"Germany",
+            "type":"vegetable",
+            "tittle": "Fresh banana",
+            "brand":"vegist",
+            "desc":"Organic dryfruit ",
+            "price": 31,
+            "onsale":false,
+            "imgs":[
+              "images/8-a_590X668_crop_center.jpg",
+              "images/8-d_590X668_crop_center.jpg",
+              "images/8-a_590X668_crop_center.jpg",
+              "images/8-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 9,
+            "cont":1,
+            "size":"2kg",
+            "tittle": "Fresh coconut",
+            "brand":"vegist",
+            "country":"Germany",
+            "type":"vegetable",
+            "desc":"Organic dryfruit ",
+            "price": 15,
+            "onsale":false,
+            "imgs":[
+              "images/9-a_590X668_crop_center.jpg",
+              "images/9-d_590X668_crop_center.jpg",
+              "images/9-a_590X668_crop_center.jpg",
+              "images/9-d_590X668_crop_center.jpg"
+            ]
+      
+          
+   
+       
+        },
+        {
+            "id": 10,
+            "cont":1,
+            "tittle": "Fresh lemon",
+            "type":"vegetable",
+            "country":"Germany",
+            "size":"2kg",
+            "desc":"Organic dryfruit ",
+            "price": 8,
+            "onsale":true,
+            "sale":18,
+            "imgs":[
+              "images/10-a_590X668_crop_center.webp",
+              "images/10-b_590X668_crop_center.webp",
+              "images/10-a_590X668_crop_center.webp",
+              "images/10-b_590X668_crop_center.webp"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 11,
+            "cont":1,
+            "brand":"vegist",
+            "type":"vegetable",
+            "country":"Germany",
+            
+            "size":"3kg",
+            "tittle": "Fresh strawberry",
+            "desc":"Organic dryfruit ",
+            "price": 8,
+            "onsale":false,
+            "imgs":[
+              "images/11-a_590X668_crop_center.jpg",
+              "images/11-d_590X668_crop_center.jpg",
+              "images/11-a_590X668_crop_center.jpg",
+              "images/11-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 12,
+            "cont":1,
+            "size":"3kg",
+            "brand":"vegist",
+            "type":"vegetable",
+             "country":"Canada",
+            "tittle": "Fresh pineapple",
+            "desc":"Organic dryfruit ",
+            "price": 40,
+            "onsale":false,
+            "imgs":[
+              "images/12-a_590X668_crop_center.jpg",
+              "images/12-d_590X668_crop_center.jpg",
+              "images/12-a_590X668_crop_center.jpg",
+              "images/12-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 13,
+            "cont":1,
+            "size":"3kg",
+            "country":"Canada",
+
+            "tittle": "Organic cabbage",
+            "desc":"Organic dryfruit ",
+            "price": 35,
+            "onsale":false,
+            "imgs":[
+              "images/13-a_590X668_crop_center.jpg",
+              "images/13-d_590X668_crop_center.jpg",
+              "images/13-a_590X668_crop_center.jpg",
+              "images/13-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 14,
+            "cont":1,
+            "brand":"vegist",
+            "size":"3kg",
+            "country":"Canada",
+
+            "tittle": "Fresh graps",
+            "desc":"Organic dryfruit ",
+            "price": 18,
+            "onsale":false,
+            "imgs":[
+              "images/14-a_590X668_crop_center.jpg",
+              "images/14-b_590X668_crop_center.jpg",
+              "images/14-a_590X668_crop_center.jpg",
+              "images/14-b_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 15,
+            "cont":1,
+            "country":"Canada",
+            "size":"10kg",
+            "tittle": "Fresh apple",
+            "desc":"Organic dryfruit ",
+            "price": 15,
+            "onsale":true,
+            "sale":15,
+            "imgs":[
+              "images/15-a_590X668_crop_center.jpg",
+              "images/15-b_590X668_crop_center.jpg",
+              "images/15-a_590X668_crop_center.jpg",
+              "images/15-b_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        },
+        {
+            "id": 16,
+            "cont":1,
+            "size":"10kg",
+            "country":"Canada",
+            "tittle": "Fresh kiwi",
+            "desc":"Organic dryfruit ",
+            "price": 14,
+            "onsale":false,
+            "imgs":[
+              "images/16-a_590X668_crop_center.jpg",
+              "images/16-d_590X668_crop_center.jpg",
+              "images/16-a_590X668_crop_center.jpg",
+              "images/16-d_590X668_crop_center.jpg"
+            ]
+          
+   
+       
+        }
+        
+        
+            
+    ],
+    "Organic dryfruit":[
+           {
+            "id": 20,
+            "cont":1,
+            "country":"Canada",
+            "size":"1kg",
+            "type":"vegetable",
+            "tittle": "Fresh litchi",
+            "desc":"Organic dryfruit ",
+            "price": 14,
+            "onsale":false,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-01.jpg",
+              "images/Organic dryfruit/pro-img-1.jpg",
+              "images/Organic dryfruit/pro-img-01.jpg",
+              "images/Organic dryfruit/pro-img-1.jpg"
+
+
+            ]
+          
+   
+       
+        },
+               {
+            "id": 21,
+            "country":"Canada",
+            "type":"vegetable",
+            "size":"1kg",
+            "cont":1,
+            "tittle": "Natural grassbean",
+            "desc":"Organic dryfruit ",
+            "price": 18,
+            "onsale":false,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-02.jpg",
+              "images/Organic dryfruit/pro-img-2.jpg",
+              "images/Organic dryfruit/pro-img-02.jpg",
+              "images/Organic dryfruit/pro-img-2.jpg"
+
+
+            ]
+         
+          
+   
+       
+        },
+        {
+            "id": 22,
+            "country":"Canada",
+            "type":"vegetable",
+            "size":"1kg",
+            "cont":1,
+            "tittle": "Fresh apple",
+            "desc":"Organic dryfruit ",
+            "price": 30,
+            "onsale":true,
+            "sale":40,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-03.jpg",
+              "images/Organic dryfruit/pro-img-3.jpg",
+              "images/Organic dryfruit/pro-img-03.jpg",
+              "images/Organic dryfruit/pro-img-3.jpg"
+
+
+            ]
+          
+   
+       
+        },
+        {
+            "id": 23,
+            "country":"Canada",
+            "type":"vegetable",
+            "size":"1kg",
+            "cont":1,
+            "tittle": "Fresh litchi",
+            "desc":"Organic dryfruit ",
+            "price": 20,
+            "onsale":true,
+            "sale":30,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-04.jpg",
+              "images/Organic dryfruit/pro-img-4.jpg",
+              "images/Organic dryfruit/pro-img-04.jpg",
+              "images/Organic dryfruit/pro-img-04.jpg"
+
+
+            ]
+          
+   
+       
+        },
+        {
+            "id": 24,
+            "size":"1kg",
+            "brand":"vegist",
+            "country":"Germany",
+            "cont":1,
+            "tittle": "Vegetable tomato",
+            "desc":"Organic dryfruit ",
+            "price": 20,
+            "onsale":false,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-05.jpg",
+              "images/Organic dryfruit/pro-img-5.jpg",
+              "images/Organic dryfruit/pro-img-05.jpg",
+              "images/Organic dryfruit/pro-img-5.jpg"
+
+
+            ]
+            
+          
+   
+       
+        },
+        {
+            "id": 25,
+            "size":"10kg",
+            "brand":"vegist",
+            "country":"Germany",
+            "cont":1,
+            "tittle": "Natural grassbean",
+            "desc":"Organic dryfruit ",
+            "price": 18,
+            "onsale":true,
+            "sale":15,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-06.jpg",
+              "images/Organic dryfruit/pro-img-6.jpg",
+              "images/Organic dryfruit/pro-img-06.jpg",
+              "images/Organic dryfruit/pro-img-6.jpg"
+
+
+            ]
+          
+   
+       
+        },
+        {
+            "id": 26,
+            "brand":"vegist",
+            "country":"Germany",
+            "size":"2kg",
+            "cont":1,
+            "tittle": "Fresh dryed almod",
+            "desc":"Organic dryfruit ",
+            "price": 35,
+            "onsale":false,
+            "sale":15,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-07.jpg",
+              "images/Organic dryfruit/pro-img-7.jpg",
+              "images/Organic dryfruit/pro-img-07.jpg",
+              "images/Organic dryfruit/pro-img-7.jpg"
+
+            ]
+          
+   
+       
+        },
+        {
+            "id": 27,
+            "country":"Germany",
+            "size":"1kg",
+            "cont":1,
+            "tittle": "Orange juice",
+            "desc":"Organic dryfruit ",
+            "price": 31,
+            "onsale":false,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-08.jpg",
+              "images/Organic dryfruit/pro-img-8.jpg",
+              "images/Organic dryfruit/pro-img-08.jpg",
+              "images/Organic dryfruit/pro-img-8.jpg"
+
+            ]
+         
+          
+   
+       
+        },
+        {
+            "id": 28,
+            "country":"Germany",
+            "size":"1kg",
+            "cont":1,
+            "tittle": "Fresh coconet ",
+            "desc":"Organic dryfruit ",
+            "price": 31,
+            "onsale":false,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-09.jpg",
+              "images/Organic dryfruit/pro-img-9.jpg",
+              "images/Organic dryfruit/pro-img-09.jpg",
+              "images/Organic dryfruit/pro-img-9.jpg"
+
+
+            ]
+          
+   
+       
+        },
+        {
+            "id": 29,
+            "brand":"vegist",
+            "country":"Germany",
+            "size":"2kg",
+            "cont":1,
+            "tittle": "Fresh coconut",
+            "desc":"Organic dryfruit ",
+            "price": 15,
+            "onsale":false,
+            "imgs":[
+              "images/Organic dryfruit/pro-img-011.jpg",
+              "images/Organic dryfruit/pro-img-11.jpg",
+              "images/Organic dryfruit/pro-img-011.jpg",
+              "images/Organic dryfruit/pro-img-11.jpg"
+
+
+            ]
+      
+          
+   
+       
+        }
+      
+
+],
+"Fresh vegetable":[
+  {
+    "id": 30,
+    "cont":1,
+    "country":"Germany",
+    "size":"1kg",
+    "tittle": "Fresh mango",
+    "desc":"Fresh vegetable ",
+    "price": 18,
+    "onsale":true,
+    "sale":15,
+    "imgs":[
+      "images/viget/pro-6 (1).jpg",
+      "images/viget/pro-6a (1).jpg",
+      "images/5-a_590X668_crop_center.jpg",
+      "images/5-d_590X668_crop_center.jpg"
+    ]
+  
+
+
+},
+{
+    "id": 31,
+    "cont":1,
+    "size":"2kg",
+    "tittle": "Fresh banana",
+    "desc":"Fresh vegetable ",
+    "price": 31,
+    "onsale":false,
+    "imgs":[
+      "images/viget/pro-9 (1).jpg",
+      "images/viget/pro-9 (2).jpg",
+      "images/8-a_590X668_crop_center.jpg",
+      "images/8-d_590X668_crop_center.jpg"
+    ]
+  
+
+
+},
+{
+  "id": 32,
+  "cont":1,
+  "size":"1kg",
+  "tittle": "Fresh avocado",
+  "desc":"Fresh vegetable ",
+  "price": 30,
+  "onsale":true,
+  "sale":40,
+  "imgs":[
+    "images/viget/pro-10 (1).jpg",
+    "images/viget/pro-10a (1).jpg",
+    "images/2-a_590X668_crop_center.jpg",
+    "images/2-d_590X668_crop_center.jpg"
+  ]
+
+
+
+},
+{
+  "id": 33,
+  "cont":1,
+  "size":"1kg",
+  "tittle": "Green capsicum",
+  "desc":"Fresh vegetable ",
+  "price": 20,
+  "onsale":false,
+  "imgs":[
+    "images/viget/pro-4a (1).jpg",
+    "images/viget/pro-4 (1).jpg",
+    "images/4-a_590X668_crop_center.jpg",
+    "images/4-d_590X668_crop_center.jpg"
+  ]
+  
+
+
+
+},
+{
+  "id": 34,
+  "type":"vegetable",
+  "cont":1,
+  "size":"1kg",
+  "tittle": "Fresh brocoli",
+  "desc":"Fresh vegetable ",
+  "price": 35,
+  "onsale":false,
+  "sale":15,
+  "imgs":[
+    "images/viget/pro-3 (1).jpg",
+    "images/viget/pro-3a (1).jpg",
+    "images/6-a_590X668_crop_center.jpg",
+    "images/6-d_590X668_crop_center.jpg"
+  ]
+
+
+
+},
+{
+  "id": 35,
+  "country":"Germany",
+  "brand":"vegist",
+  "cont":1,
+  "size":"3kg",
+  "type":"vegetable",
+
+  "tittle": "Organic cabbage",
+  "desc":"Fresh vegetable ",
+  "price": 35,
+  "onsale":false,
+  "imgs":[
+    "images/13-a_590X668_crop_center.jpg",
+    "images/13-d_590X668_crop_center.jpg",
+    "images/13-a_590X668_crop_center.jpg",
+    "images/13-d_590X668_crop_center.jpg"
+  ]
+
+
+
+},
+{
+  "id": 36,
+  "type":"vegetable",
+  "cont":1,
+            "brand":"vegist",
+            "country":"Canada",
+  "size":"3kg",
+  "tittle": "Fresh watermelon",
+  "desc":"Fresh vegetable ",
+  "price": 15,
+  "onsale":true,
+  "sale":15,
+  "imgs":[
+    "images/15-a_590X668_crop_center.jpg",
+    "images/15-b_590X668_crop_center.jpg",
+    "images/15-a_590X668_crop_center.jpg",
+    "images/15-b_590X668_crop_center.jpg"
+  ]
+
+
+
+},
+{
+  "id": 37,
+  "size":"2kg",
+  "type":"vegetable",
+  "cont":1,
+  "tittle": "Fresh apple",
+  "desc":"Fresh vegetable ",
+  "price": 30,
+     "country":"Germany",
+     "onsale":true,
+  "sale":40,
+  "imgs":[
+    "images/Organic dryfruit/pro-img-03.jpg",
+    "images/Organic dryfruit/pro-img-3.jpg",
+    "images/Organic dryfruit/pro-img-03.jpg",
+    "images/Organic dryfruit/pro-img-3.jpg"
+
+
+  ]
+
+
+
+},
+{
+  "id": 38,
+            "brand":"vegist",
+            "size":"2kg",
+  "cont":1,
+  "tittle": "Natural grassbean",
+  "desc":"Fresh vegetable ",
+  "price": 18,
+  "onsale":true,
+  "sale":15,
+  "imgs":[
+    "images/Organic dryfruit/pro-img-06.jpg",
+    "images/Organic dryfruit/pro-img-6.jpg",
+    "images/Organic dryfruit/pro-img-06.jpg",
+    "images/Organic dryfruit/pro-img-6.jpg"
+
+
+  ]
+
+
+
+},
+{
+  "id": 47,
+  "country":"India",
+            "brand":"vegist",
+            "size":"2kg",
+  "cont":1,
+  "tittle": "Fresh strawberry",
+  "desc":"Fresh vegetable ",
+  "price": 32,
+  "onsale":true,
+  "sale":20,
+  "imgs":[
+    "images/viget/pro-11 (1).jpg",
+    "images/viget/pro-11a (1).jpg",
+    "images/viget/pro-11 (1).jpg",
+    "images/viget/pro-11a (1).jpg"
+
+
+  ]
+
+
+
+},
+{
+  "id": 48,
+  "size":"2kg",
+  "cont":1,
+  "tittle": "Healthy papaya",
+  "desc":"Fresh vegetable ",
+  "country":"India",
+            "brand":"vegist",
+            "price": 32,
+  "onsale":true,
+  "sale":20,
+  "imgs":[
+    "images/viget/pro-12a (1).jpg",
+    "images/viget/pro-12 (1).jpg",
+    "images/viget/pro-12a (1).jpg",
+    "images/viget/pro-12 (1).jpg"
+
+
+  ]
+
+
+
+},
+{
+  "id": 49,
+  "size":"2kg",
+  "cont":1,
+  "tittle": "Fresh graps",
+  "desc":"Fresh vegetable ",
+  "price": 32,
+  "country":"India",
+  "onsale":true,
+  "brand":"vegist",
+  "sale":20,
+  "imgs":[
+    "images/viget/pro-12 (2).jpg ",
+    "images/viget/pro-12a (2).jpg",
+    "images/viget/pro-12 (2).jpg ",
+    "images/viget/pro-12a (2).jpg"
+
+
+  ]
+
+
+
+},
+{
+  "id": 99,
+  "size":"2kg",
+  "cont":1,
+  "tittle": "Fresh oranges",
+  "desc":"Fresh vegetable ",
+            "brand":"vegist",
+            "price": 32,
+  "country":"India",
+  "onsale":true,
+  "sale":20,
+  "imgs":[
+    "images/viget/pro-5 (2).jpg ",
+    "images/viget/pro-5a (2).jpg",
+    "images/viget/pro-5 (2).jpg ",
+    "images/viget/pro-5a (2).jpg"
+
+
+  ]
+
+
+
+}
+],
+"Biscuite":[
+  {
+    "id": 39,
+    "cont":1,
+    "tittle": "Red velvet cup cake",
+    "desc":"Biscuite ",
+    "price": 35,
+    "onsale":true,
+    "sale":51,
+    "imgs":[
+      "images/Biscuite/6_be17e2c7-cd84-4a52-871d-828fb74c70ef.webp",
+      "images/Biscuite/1_59f2fc43-41c9-4469-8647-d3d271ea0aaf.webp",
+      "images/Biscuite/5_2338fb5d-f97d-4ad3-9a39-057222633e84.webp",
+      "images/Biscuite/8_22c1346a-1c3e-4cb8-9b98-c78056f8766c.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 40,
+    "cont":1,
+    "tittle": "Delicious cookies",
+    "desc":"Biscuite ",
+    "price": 31,
+    "onsale":false,
+    "imgs":[
+      "images/Biscuite/7_729d5490-a577-488b-8b27-2b9f1fb4abc8.webp",
+      "images/Biscuite/2_b096fc1f-d46d-4260-8891-4848bc5829f3.webp",
+      "images/Biscuite/3_8a9d2f3f-04f2-4032-b0ab-92e0b5a729c0.webp",
+      "images/Biscuite/4_4d9ffa49-5a91-4fbe-954a-6d2e05600d78.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 41,
+    "cont":1,
+    "tittle": "Orange bread ball",
+    "desc":"Biscuite ",
+    "price": 31,
+    "onsale":false,
+    "imgs":[
+      "images/Biscuite/8_6ec92225-eaec-4921-8b91-b233f0dd2a12.webp",
+      "images/Biscuite/5_601baf7f-e1cc-4642-a932-6cdd63a8b4c9.webp",
+      "images/Biscuite/1_2c298bd2-913f-41b9-8f44-e975475b111b.webp",
+      "images/Biscuite/3_4611cfdd-879c-492c-9089-dad30e3c47b6.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 42,
+    "cont":1,
+    "tittle": "Deli roll cake",
+    "desc":"Biscuite ",
+    "price": 18,
+    "onsale":false,
+    "imgs":[
+      "images/Biscuite/1_fec81a42-79c6-4dea-ac8c-8cd47aa95ad3.webp",
+      "images/Biscuite/9_11912f6a-c13b-4ae3-90f8-66bd1c610ef7.webp",
+      "images/Biscuite/8_2fb65745-8f02-4a7b-936b-0d528890f2e1.webp",
+      "images/Biscuite/2_bcbf8fff-3e42-416e-949f-b56a86b418d6.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 43,
+    "cont":1,
+    "tittle": "Chocolate cup cake",
+    "desc":"Biscuite ",
+    "price": 15,
+    "onsale":true,
+    "sale":20,
+    "imgs":[
+      "images/Biscuite/5_749e43ae-3625-4e25-86d8-43168a7f495c.webp",
+      "images/Biscuite/8_f8cda616-1a3a-4e24-bfc2-950991f02508.webp",
+      "images/Biscuite/6_52f9541b-2c39-4920-8bae-72b8e4d2e103.webp",
+      "images/Biscuite/7_dae2ef93-04d3-4c52-b73b-4724c635a02f.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 44,
+    "cont":1,
+    "tittle": "Appetizing bakery bread",
+    "desc":"Biscuite ",
+    "price": 15,
+    "onsale":false,
+    "imgs":[
+      "images/Biscuite/4_54ab18db-ca26-4488-8ee4-a3da7056669a.webp",
+      "images/Biscuite/7_1f9ae5c5-6a00-4b91-9c57-bf35bdf4a9f9.webp",
+      "images/Biscuite/5_ec751ff7-c799-4b40-b4e0-7d042e4e19f3.webp",
+      "images/Biscuite/6_e5b50991-47a3-47b0-95e2-3ae7c887e79c.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 45,
+    "cont":1,
+    "tittle": "French loaf bread",
+    "desc":"Biscuite ",
+    "price": 14,
+    "onsale":false,
+    "imgs":[
+      "images/Biscuite/3_300650c1-c207-4853-99e4-5ba551de04de.webp",
+      "images/Biscuite/8_a0f2f856-ca56-4cb8-a417-4ce06fcad0e7.webp",
+      "images/Biscuite/2_fcae69cf-9c18-4917-b586-6ca0e2fc45c6.webp",
+      "images/Biscuite/4_f737a38b-54b5-493e-a0f3-d41f8bf021ff.webp"
+  
+  
+    ]
+  
+  
+  
+  },
+  {
+    "id": 46,
+    "cont":1,
+    "tittle": "Variety bread pie",
+    "desc":"Biscuite ",
+    "price": 14,
+    "onsale":true,
+    "sale":20,
+    "imgs":[
+      "images/Biscuite/2_bf27e466-6ad9-4eb9-9756-07d1bdc80c68.webp",
+      "images/Biscuite/7_4043b2c9-4cd4-4fa3-8ffc-c3dbd59cc722.webp",
+      "images/Biscuite/2_7a8049fa-70ee-4e79-b18d-595cf30ea42f.webp",
+      "images/Biscuite/3_9ecfa28d-5975-4df7-9cb2-d7e1777a4fc8.webp"
+  
+  
+    ]
+  
+  
+  
+  }
+],
+  "Organic juice":[
+    {
+        "id": 50,
+        "cont":1,
+        "size":"2lt",
+        "tittle": "Blood orange with kale",
+        "desc":"Organic juice",
+        "price": 19,
+        "sale":20,
+        "onsale":true,
+        "imgs":[
+          "images/Organic juice/pro-01.webp",
+          "images/Organic juice/pro-01-a.webp",
+          "images/Organic juice/pro-01-b.webp",
+          "images/Organic juice/pro-01-c.webp"
+  
+          
+        ],
+        "units":true
+    },
+    {
+      "id": 51,
+      "cont":1,
+      "size":"2lt",
+      "tittle": "Blue magic with pineapple",
+      "desc":"Organic juice",
+      "price": 23,
+      "onsale":false,
+      "imgs":[
+        "images/Organic juice/pro-02.webp",
+        "images/Organic juice/pro-02-a.webp",
+        "images/Organic juice/pro-02-b.webp",
+        "images/Organic juice/pro-02-c.webp"
+
+        
+      ],
+      "units":true
+  },
+  {
+    "id": 52,
+    "cont":1,
+    "size":"2lt",
+    "tittle": "Elderberry juice shot",
+    "desc":"Organic juice",
+    "price": 19,
+    "sale":20,
+    "onsale":true,
+    "imgs":[
+      "images/Organic juice/pro-03.webp",
+      "images/Organic juice/pro-03-a.webp",
+      "images/Organic juice/pro-03-b.webp",
+      "images/Organic juice/pro-03-c.webp"
+
+      
+    ],
+    "units":true
+},
+{
+  "id": 53,
+  "cont":1,
+  "size":"2lt",
+  "tittle": "Ginger lemon cayenne",
+  "desc":"Organic juice",
+  "price":25,
+  "onsale":false,
+  "imgs":[
+    "images/Organic juice/pro-04.webp",
+    "images/Organic juice/pro-04-a.webp",
+    "images/Organic juice/pro-04-b.webp",
+    "images/Organic juice/pro-04-c.webp"
+
+    
+  ],
+  "units":true
+},
+{
+  "id": 54,
+  "cont":1,
+  "size":"1lt",
+  "tittle": "Orange juice with pineapple",
+  "desc":"Organic juice",
+  "price":17,
+  "sale":20,
+  "onsale":true,
+  "imgs":[
+    "images/Organic juice/pro-05.webp",
+    "images/Organic juice/pro-05-a.webp",
+    "images/Organic juice/pro-05-b.webp",
+    "images/Organic juice/pro-05-c.webp"
+
+    
+  ],
+  "units":true
+},
+{
+  "id": 55,
+  "cont":1,
+  "size":"1lt",
+  "tittle": "Power box with spinach",
+  "desc":"Organic juice",
+  "price":21,
+  "onsale":false,
+  "imgs":[
+    "images/Organic juice/pro-06.webp",
+    "images/Organic juice/pro-06-a.webp",
+    "images/Organic juice/pro-06-b.webp",
+    "images/Organic juice/pro-06-c.webp"
+
+    
+  ],
+  "units":true
+},
+{
+  "id": 56,
+  "cont":1,
+  "size":"1lt",
+  "tittle": "Pressed healthy Shot",
+  "desc":"Organic juice",
+  "price":25,
+  "onsale":false,
+  "imgs":[
+    "images/Organic juice/pro-09-b.webp",
+    "images/Organic juice/pro-09.webp",
+    "images/Organic juice/pro-09-a.webp",
+    "images/Organic juice/pro-09-c.webp"
+
+    
+  ],
+  "units":true
+},
+{
+  "id": 57,
+  "cont":1,
+  "size":"1lt",
+  "tittle": "Squash carrot juice",
+  "desc":"Organic juice",
+  "price": 19,
+  "sale":20,
+  "onsale":true,
+  "imgs":[
+    "images/Organic juice/pro-08.webp",
+    "images/Organic juice/pro-08-a.webp",
+    "images/Organic juice/pro-08-b.webp",
+    "images/Organic juice/pro-08-c.webp"
+
+    
+  ],
+  "units":true
+},
+{
+  "id": 58,
+  "cont":1,
+  "size":"1lt",
+  "tittle": "Vanilla cream with lemon",
+  "desc":"Organic juice",
+  "price": 23,
+  "onsale":false,
+  "imgs":[
+    "images/Organic juice/pro-09.webp",
+    "images/Organic juice/pro-09-a.webp",
+    "images/Organic juice/pro-09-b.webp",
+    "images/Organic juice/pro-09-c.webp"
+
+    
+  ],
+  "units":true
+}
+
+
+
+
+],
+"Cow milk":[
+  {
+    "id": 59,
+    "cont":1,
+    "size":"1lt",
+    "tittle": "Fresh 3.5% Milk",
+    "desc":"Cow milk",
+    "price": 14,
+    "onsale":false,
+    "imgs":[
+      "images/cow milk/products_02_01-600x600.jpg",
+      "images/cow milk/products_02_03-600x600.jpg",
+      "images/cow milk/products_02_04-600x600.jpg",
+      "images/cow milk/products_02_03-600x600.jpg"
+  
+      
+    ],
+"units":true
+  },
+  {
+    "id": 60,
+    "cont":1,
+    "size":"1lt",
+    "tittle": "Cherry Yogurt",
+    "desc":"Cow milk",
+    "price": 15,
+    "onsale":false,
+    "imgs":[
+      "images/cow milk/products_03_01-600x600.jpg",
+      "images/cow milk/products_03_02-600x600.jpg",
+      "images/cow milk/products_03_03-600x600.jpg",
+      "images/cow milk/products_03_05-600x600.jpg"
+  
+      
+    ],
+"units":true
+
+  }
+
+],   
+"Fresh meat":[
+  {
+    "id": 61,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Appetizer Chops",
+    "desc":"Fresh meat",
+    "price": 189,
+    "onsale":false,
+    "imgs":[
+      "images/Fresh meat/product11.webp",
+      "images/Fresh meat/product12.webp",
+      "images/Fresh meat/product12.webp",
+      "images/Fresh meat/product12.webp"
+  
+      
+    ]
+  },
+  {
+    "id": 62,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Cheddar Cheese Meat",
+    "desc":"Fresh meat",
+    "price": 500,
+    "onsale":false,
+    "imgs":[
+      "images/Fresh meat/product28_ddcb383c-8f17-428d-a753-0df69e51c5d8.jpg",
+      "images/Fresh meat/product27.webp",
+      "images/Fresh meat/product23_b346aa07-e72b-4aad-8182-56b66e84c8e6.jpg",
+      "images/Fresh meat/product26_6f85202d-cbff-4ab5-90c5-45e3c1e21467.jpg"
+  
+      
+    ]
+  },
+  {
+    "id": 63,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Breakfast Trio",
+    "desc":"Fresh meat",
+    "price": 500,
+    "onsale":false,
+    "imgs":[
+      "images/Fresh meat/product22.webp",
+      "images/Fresh meat/product21.webp",
+      "images/Fresh meat/product22.webp",
+      "images/Fresh meat/product21.webp"
+  
+      
+    ]
+  },
+  {
+    "id": 64,
+    "cont":1,
+    "size":"2kg",
+    "tittle": "Wagyu Striploin",
+    "desc":"Fresh meat",
+    "price": 200,
+    "onsale":false,
+    "imgs":[
+      "images/Fresh meat/Product__0003_Layer-12.jpg",
+      "images/Fresh meat/Product__0009_Layer-6.jpg",
+      "images/Fresh meat/Product__0000_Layer-15.jpg",
+      "images/Fresh meat/Product__0004_Layer-11.jpg"
+  
+      
+    ]
+  }
+],   
+"Sea & fish":[
+  {
+    "id": 65,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Shrimp - jumbo (5 lb)",
+    "desc":"Sea & fish",
+    "price": 61,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/36_1_bca332c0-6fa3-49bb-81c5-7bab93d3acae.webp",
+      "images/sea &&fish/34_e2b438b2-687b-4721-9dee-90a9046d07c2.webp",
+      "images/sea &&fish/35_3a5fab00-72bb-4ebe-9243-9718468419f5.webp",
+      "images/sea &&fish/36_32b12c9f-d313-46bf-8c0c-750b964f1bdb.webp"
+  
+      
+    ]
+  },
+  {
+    "id": 66,
+    "cont":1,
+  "size":"2kg",
+    "tittle": "Fresh mussel (500g)",
+    "desc":"Sea & fish",
+    "price": 33,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/45.webp",
+      "images/sea &&fish/44.webp",
+      "images/sea &&fish/5.webp",
+      "images/sea &&fish/45_4b708d00-0fe1-4ab9-bf0f-30e372bd2595.webp"
+  
+      
+    ]
+  },
+  {
+    "id": 67,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Fresh seafoods",
+    "desc":"Sea & fish",
+    "price": 18,
+    "sale":44,
+    "onsale":true,
+    "imgs":[
+      "images/sea &&fish/33_25d7b018-5c65-4abf-bb51-5643d3bb3957.webp",
+      "images/sea &&fish/34_0e0817e9-6f4b-480e-8fbf-58215cef5598.webp",
+      "images/sea &&fish/35_7a29a196-eb27-4920-918a-081d413634dd.webp",
+      "images/sea &&fish/44_0e70e8ee-0262-4e56-8f95-10c7e176840a.webp"
+  
+      
+    ]
+  },
+  {
+    "id": 68,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Autumn Soup",
+    "desc":"Sea & fish",
+    "price": 22,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/15_6f0c5038-cb00-4e34-bb21-5cbbf675039c.webp",
+      "images/sea &&fish/16_161f0b93-d329-447a-830b-7630f693568a.webp",
+      "images/sea &&fish/5_851d16ee-810a-4e59-9b52-5f4e71ddad42.webp",
+      "images/sea &&fish/4_f049932f-09f0-4389-ba2f-3582478321a3.webp"
+  
+      
+    ]
+  },
+  {
+    "id": 69,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Tiramisu",
+    "desc":"Sea & fish",
+    "price": 18,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/14_fcf4c63d-f037-486b-a731-708db6cdeacf.webp",
+      "images/sea &&fish/1_4cdb836b-6946-4ec4-bd56-9477d31c697a.webp",
+      "images/sea &&fish/15_659857ba-5f30-41d4-b2f5-52c57a5c5a83.webp",
+      "images/sea &&fish/16_566e5d91-58db-450a-8fac-bcec6054b9f6.webp"
+  
+      
+    ]
+  },
+  {
+    "id":70,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Cavatappi",
+    "desc":"Sea & fish",
+    "price": 8,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/10_00e0b6fc-1b61-42c1-8b54-65a40291149c.webp",
+      "images/sea &&fish/13.webp",
+      "images/sea &&fish/11_1c6c898b-5b38-47a2-ba53-06c82034e6f8.webp",
+      "images/sea &&fish/12_5f49d174-6d5b-4878-ba83-45cf4f028a1f.webp"
+  
+      
+    ]
+  },
+  {
+    "id":71,
+    "cont":1,
+    "size":"1kg",
+    "tittle": "Egg Toast",
+    "desc":"Sea & fish",
+    "price": 22,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/6_950e44e3-2dc5-4803-bdef-295a9b6cb7fa.webp",
+      "images/sea &&fish/9.webp",
+      "images/sea &&fish/7_7e066882-fe8e-449a-bbe2-ed558fc8f2e9.webp",
+      "images/sea &&fish/8_f122788e-d7bc-4f7f-9f13-a47a1acb3a2d.webp"
+  
+      
+    ]
+  },
+  {
+    "id":72,
+    "cont":1,
+    "size":"2kg",
+    "tittle": "Italian foodie",
+    "desc":"Sea & fish",
+    "price": 50,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/9_c13ac3d4-b3f0-4c53-885a-dfea95a4a2db.webp",
+      "images/sea &&fish/10_51f4d519-5030-484d-a333-6574146b1cbf.webp",
+      "images/sea &&fish/10_51f4d519-5030-484d-a333-6574146b1cbf.webp",
+      "images/sea &&fish/11_8583fe9e-9aa8-4329-ab46-b976cec16e17.webp"
+  
+      
+    ]
+  },
+  {
+    "id":73,
+    "cont":1,
+    "size":"2kg",
+    "tittle": "Hamburger",
+    "desc":"Sea & fish",
+    "price": 50,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/2_cea41c0a-5029-4fa5-8a29-46458a2cfeb8.webp",
+      "images/sea &&fish/5_a6e4d504-0ec9-4718-b664-9935d1685b46.webp",
+      "images/sea &&fish/3_3a572e5f-cc6c-4656-b83c-4467dd9e7f08.webp",
+      "images/sea &&fish/4_e6d4dc9f-8007-4ef4-b128-0f6c7948324e.webp"
+  
+      
+    ]
+  },
+  {
+    "id":74,
+    "cont":1,
+    "size":"2kg",
+    "tittle": "Italian foodie",
+    "desc":"Sea & fish",
+    "price": 40,
+    "onsale":false,
+    "imgs":[
+      "images/sea &&fish/3_17fda0d3-0c50-48cc-8e3d-cccc6e7db926.webp",
+      "images/sea &&fish/4_c487c8dc-3503-43c0-89ca-467ae2d8669d.webp",
+      "images/sea &&fish/6.webp",
+      "images/sea &&fish/5_eae962ae-e822-480c-9853-e7279976e6fa.webp"
+  
+  
+      
+    ]
+  }
+
+
+
+
+
+],
+
+
+  
+
+    "blog":[
+      {
+       "id": 1,
+       "desc":"Fresh organic brand and picnic",
+       "img":"images/2_700x503_crop_center.jpg"
+       
+  
+   },
+   {
+    "id": 2,
+    "desc":"Health and skin for your organic",
+    "img":"images/3_700x503_crop_center.jpg"
+
+    
+
+},
+{
+  "id": 3,
+  "desc":"Organic mix masala fresh & soft",
+  "img":"images/4_700x503_crop_center.jpg"
+
+},
+{
+  "id": 4,
+  "desc":"All time fresh every time healthy",
+  "img":"images/5_700x503_crop_center.jpg"
+
+},
+{
+  "id": 5,
+  "desc":"Health and skin for your organic",
+  "img":"images/6_700x503_crop_center.jpg"
+
+},
+{
+  "id": 6,
+  "desc":"Green onion knife and salad plased",
+  "img":"images/7_700x503_crop_center.jpg"
+
+}
+
+  
+
+]
+
+
+
+
+}
+
+

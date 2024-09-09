@@ -1,0 +1,76 @@
+
+.sec7__item {
+    box-shadow: 0 0 15px rgb(0 0 0 / 15%); 
+}
+ .sec7 .splide__slide {
+    padding: 20px 10px; 
+}
+ .sec7__item__img{
+    overflow: hidden;
+}
+ .sec7__item__img img{
+    transform: scale(1);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+ .sec7__item__img img:hover{
+    transform: scale(1.1);
+    
+}
+ .sec7__item__text{
+    padding: 10px 20px;
+    position: relative;
+}
+
+ .sec7__item__text span{
+    position: absolute;
+    top:-22px;
+    left: 0;
+   background-color: white;
+   padding: 5px 13px;
+   font-size: 16px;
+   font-family: Poppins-Medium;
+}
+ .sec7__item__text h3{
+    padding: 25px 0px;
+    font-family: Poppins-SemiBold;
+    font-size: 19px;
+    transition: all 0.5s;
+    cursor: pointer;
+
+}
+ .sec7__item__text h3:hover{
+    color: #ee6c4d;
+
+}
+  .sec7__item__text p{
+color: #666;
+font-size: 16px;
+padding-bottom: 25px;
+font-family:Poppins-Regular ;
+}
+ .sec7__item__text h4{
+    padding-bottom: 25px;
+    font-family:Poppins-Regular ;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: all 0.5s;
+}
+  .sec7__item__text h4 i{
+    padding-left: 10px;
+    transform: translateX(0px);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+ .sec7__item__text h4:hover i{
+    transform: translateX(10px);
+}
+ .sec7__item__text h4:hover{
+    color: #ee6c4d;
+}
+ .sec7__item__text h4 a{
+    transition: all 0.5s;
+}
+ .sec7__item__text h4:hover a{
+    color: #ee6c4d;
+}

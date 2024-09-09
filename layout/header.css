@@ -1,0 +1,101 @@
+
+.home .home__img{
+    position: relative;
+    
+}
+
+.home .home__img img{
+    height: 100vh;
+    object-fit: cover;
+  
+}
+.home .home__text{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+.home .home__text >span{
+    display: block;
+    font-size: 23px;
+    font-family:Poppins-Regular ;
+    color: #ee6c4d;
+    padding-bottom: 17px;
+}
+.home .home__text h1{
+    padding: 20px 0px;
+}
+.home .home__text h1 span{
+    font-size: 55px;
+    font-family:Poppins-Regular ;
+    color: black;
+    display: block;
+}
+.home .home__text h1 span:first-of-type{
+    font-size: 55px;
+    font-family: Poppins-SemiBold;
+}
+.home .home__text .btn1{
+    padding: 11px 35px;
+    border: 1px solid transparent;
+    color: white;
+    background-color: #ee6c4d;
+    font-family: Poppins-Medium;
+    font-size: 16px;
+    transition: all 0.5s;
+    border-radius: 4px;
+    
+}
+.home .home__text a .btn1 {
+    transition: all 0.5;
+    text-transform: uppercase;
+    color: white;
+ 
+}
+.home .home__text a .btn1:hover{
+    color: #000000;
+ 
+}
+.home .home__text .btn1:hover{
+    background-color: transparent;
+    border: 1px solid black;
+}
+.home .splide__arrow{
+    background: #ffffff;
+    transition: all 0.5s;
+    opacity: 1;
+    height: 40px;
+    width: 40px;
+}
+.home .splide__arrow:hover{
+    background-color: #ee6c4d;
+}
+
+.home .splide__arrow svg{
+    height: 13px;
+    width: 17px;
+    transition: all 0.5s;
+}
+
+.home .splide__arrow:hover svg{
+    fill: white;
+}
+.home .splide__arrow--prev{
+    left: 35px;
+}
+.home .splide__arrow--next {
+    right: 35px;
+}
+
+.splide__pagination__page{
+    background: #ee6c4d;
+    transition: all 0.5s;
+}
+
+.splide__pagination__page:hover{
+     background: #000000;
+}
+
+.splide__pagination__page.is-active{
+background: #000000;
+transform: scale(1.1);
+}

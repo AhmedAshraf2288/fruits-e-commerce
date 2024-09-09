@@ -1,0 +1,26 @@
+.loction{
+    padding: 15px 0px;
+}
+
+.loction .loction__list{
+    background-color:#fafafa;
+    padding: 10px 30px;
+
+}
+.loction .loction__list ul{
+    margin: auto;
+}
+.loction .loction__list ul li a{
+    color: #717171;
+    font-size: 15px;
+    text-transform: capitalize;
+    position: relative;
+}
+.loction .loction__list ul li a::after{
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 30px;
+    background-color: #d6d6d6;
+    right: -15px;
+}

@@ -1,0 +1,89 @@
+.contact{
+    padding: 50px 0px;
+}
+.contact .contact__conect{
+    padding-bottom: 20px;
+}
+.contact .contact__conect h2{
+    padding: 20px 0px;
+    font-size: 30px;
+    font-family: Poppins-SemiBold;
+}
+.contact .contact__conect p{
+    font-family: Poppins-Medium;
+    font-size: 15px;
+    line-height: 1.8;
+}
+.contact .contact__map {
+    padding: 25px 20px;
+}
+.contact .contact__map iframe{
+width: 100%;
+}
+.contact .contact__form{
+    padding: 25px 20px;
+}
+.contact .contact__form h3{
+    font-size: 20px;
+    font-family: Poppins-SemiBold;
+}
+.contact .contact__form .form textarea{
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border-radius: 3px; 
+    box-shadow: none;
+    border: 1px solid #e5e5e5;
+    outline: none;
+    font-size: 16px;
+    font-family: Poppins-Medium;
+    resize: none;
+  }
+
+  .contact .contact__form .form  form label{
+    padding-top: 15px;
+  }
+
+  .contact .contact__form .sec3__item__btn1{
+    margin-top: 15px;
+    
+  }
+  .contact .contact__form .sec3__item__btn1 {
+    font-family: Poppins-SemiBold;
+  }
+  .contact .contact__form .sec3__item__btn1 i{
+    padding-left: 7px;
+    font-size: medium;
+    
+
+  }
+  .contact .contact__datiles {
+    padding: 25px 10px;
+  }
+  .contact .contact__datiles h3{
+    font-size: 20px;
+    font-family: Poppins-SemiBold;
+ 
+  }
+  .contact .contact__datiles p{
+    padding: 10px 0px;
+  }
+
+  .contact .contact__datiles .contact__datiles__info{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-top: 20px;
+  }
+
+  .contact .contact__datiles .contact__datiles__info .contact__datiles__info__text h4{
+    font-size: 16px;
+    font-family: Poppins-Medium;
+  }
+
+  .contact .contact__datiles .contact__datiles__info .contact__datiles__info__text p{
+padding: 6px 0px;
+font-size: 14px;
+font-family:Poppins-Regular ;
+  }

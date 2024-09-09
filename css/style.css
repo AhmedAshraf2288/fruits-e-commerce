@@ -1,0 +1,60 @@
+@import url("../vendore/bootstrap.min.css");
+@import url("../vendore/splide.min.css");
+@import url("../vendore/animate.css");
+@import url("../vendore/dscountdown.css");
+@import url("../vendore/aos.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+
+@import url("../base/base.css");
+@import url("../layout/navbar.css");
+@import url("../layout/header.css");
+@import url("../layout/footer.css");
+@import url("../component/product.css");
+@import url("../component/btnhome.css");
+@import url("../component/blog.css");
+@import url("../component/loction.css");
+@import url("../component/lightbox.css");
+@import url("../component/form.css");
+@import url("../component/account.css");
+@import url("../component/leftblog.css");
+@import url("../component/cartright.css");
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url("../pages/index.css");
+@import url("../pages/shop.css");
+@import url("../pages/products.css");
+@import url("../pages/faq.css");
+@import url("../pages/about.css");
+@import url("../pages/contact.css");
+@import url("../pages/login.css");
+@import url("../pages/blogs.css");
+@import url("../pages/blogdetails.css");
+@import url("../pages/cart view.css");
+@import url("../pages/wishlist.css");
+@import url("../pages/checkout.css");
+
+
+
+
+
+
+
+
+
+
+
+
+@import url("../responsive/responsive.css");
+
+

@@ -1,0 +1,46 @@
+.Faq{
+    padding: 50px 30px;
+}
+.Faq .faq__text {
+    padding-bottom: 30px;
+}
+.Faq .faq__text h2{
+    font-size: 35px;
+    font-family: Poppins-SemiBold;
+}
+
+.Faq .faq__item ul li{
+    padding: 15px 0px;
+}
+
+.Faq .faq__item ul li span{
+    background-color: #fff;
+    box-shadow: 0 0 12px #0000001a;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Poppins-SemiBold;
+
+}
+.Faq .faq__item ul li a{
+    background-color:#ee6c4d;
+    color: #fff;
+    font-family: Poppins-SemiBold;
+    padding: 10px 15px;
+    display: block;
+    font-size: 17px;
+
+}
+
+.Faq .faq__item ul li .faq__card{
+    padding: 10px;
+}
+
+.Faq .faq__item ul li .faq__card h3{
+    font-size: 15px;
+    font-family: Poppins-Medium;
+        line-height: 1.8;
+    
+}

@@ -1,0 +1,101 @@
+.login{
+    padding: 50px 0px;
+}
+
+.login .login__table{
+    border: 1px solid #eee;
+    border-radius: 3px;
+    padding: 30px;
+ 
+}
+
+.login .login__table h2{
+    font-family: Poppins-Medium;
+    font-size: 35px;
+}
+.login .login__table p{
+    padding: 20px 0px;
+}
+.login .login__table .form label:not(.login .login__table .form label:nth-of-type(1)){
+    padding-top: 35px;
+}
+
+.login .login__table .sec3__item__btn1{
+    width: 100%;
+    /* margin: auto; */
+    margin-top: 40px;
+}
+.login .login__table .sec3__item__btn1 a{
+    text-transform:capitalize;
+}
+.login .login__table h3{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 30px;
+
+    font-family: Poppins-SemiBold;
+   
+}
+
+.login .login__table h3 a{
+    color: #ee6c4d;
+}
+.login .login__table2 {
+padding: 20px 7px;
+padding: 30px;
+
+
+}
+
+.login .login__table2 h4{
+    padding: 30px 0px;
+    text-align: center;
+    font-family: Poppins-SemiBold;
+    font-size: 17px;
+
+}
+
+
+.login .login__table2 .login__table2__btn1{
+    padding: 13px 30px;
+    border: 2px solid #ee6c4d;
+    width: 100%;
+    background-color: transparent;
+    font-family: Poppins-SemiBold;
+  
+    transition: all 0.5s;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+.login .login__table2 .login__table2__btn1 a{
+    color: #ee6c4d;
+    font-family: Poppins-SemiBold;
+    font-size: 16px;
+}
+
+.login .login__table2 .login__table2__btn1:hover{
+    background-color: #ee6d4d13;
+}
+
+.login .login__table2 a{
+    display: inline-block;
+    color: #ee6c4d;
+    font-size: 13px;
+    font-family: Poppins-Medium;
+
+    
+}
+
+.login .login__table2 p{
+    padding: 10px 0px;
+    font-size: 13px;
+    font-family: Poppins-Medium;
+}
+
+
+.login .login__table2 p span{
+    padding-left: 5px;
+    color: #ee6c4d;
+    cursor: pointer;
+    line-height: 1.8;
+}
